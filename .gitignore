@@ -52,3 +52,10 @@ bundle-size-current.json
 bundle-size-baseline.json
 bundle-composition-current.json
 bundle-composition-baseline.json
+
+# playwright visual regression (baselines live in test/visual/__screenshots__)
+/test-results/
+/playwright-report/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
